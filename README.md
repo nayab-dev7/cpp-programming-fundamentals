@@ -1,4 +1,4 @@
-# cpp-programming-fundamentals
+## cpp-programming-fundamentals
 C++ programming fundamentals: practice programs and lab solutions covering variables, operators, conditionals, switch, and loops. Beginner-friendly and well-commented.
 
 
@@ -8,6 +8,7 @@ C++ programming fundamentals: practice programs and lab solutions covering varia
 | **for & if/else conditions** | Using loops with if/else print tables | 
 | **while loop and login page** | login loops & login attempts in while |
 
+## Folder Structure
 ```
 cpp-programming-fundamentals/
 ├── file1/
